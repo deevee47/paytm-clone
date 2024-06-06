@@ -1,6 +1,6 @@
-## This is an Paytm Clone using MERN Stack
+## This is an Paytm Clone using MERN Stack feat. Signup, Signin, Transactions
 
-Note: This is not a fully secured app as I made it when learning MERN. There might be security leaks on large scale usage. But the functionality of Paytm is correctly defined in this project.
+Note: This is not a fully secured app. There might be security leaks on large scale usage. But the functionality of Paytm is correctly defined in this project.
 
 <h1>FILE STRUCTURE:</h1>
 <h4> Backend </h4>
@@ -40,8 +40,8 @@ Note: In real life scenerio confidential things like JWT_SECRET and DB url are s
     
 [How to query MongoDB with "like"](https://stackoverflow.com/questions/3305561/how-to-query-mongodb-with-like)
 
-
 <h4>Fetching Data</h4>
+
 **Regex Queries in MongoDB**
 Starts with 789: /^789/
 Ends with 789: /789$/
