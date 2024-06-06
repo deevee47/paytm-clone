@@ -29,6 +29,9 @@ Note: In real life scenerio confidential things like JWT_SECRET and DB url are s
 
 
 
+----------------------------------------------------------------------
+For Someone who wants to build his own version
+----------------------------------------------------------------------
 
 ## Build a basic version of PayTM
 
