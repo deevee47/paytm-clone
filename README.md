@@ -1,6 +1,6 @@
 ## This is an Paytm Clone using MERN Stack feat. Signup, Signin, Transactions
 
-Note: This is not a fully secured app. There might be security leaks on large scale usage. But the functionality of Paytm is correctly defined in this project.
+Note: This is not a fully secured app. There might be security leaks on *Large-scale usage*. But the functionality of Paytm is correctly defined in this project.
 
 <h1>FILE STRUCTURE:</h1>
 <h4> Backend </h4>
